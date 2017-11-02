@@ -1,7 +1,7 @@
 # Site Settings
 title: Hello Han Yong
 email: wunro007[at]umn[at]com
-description: Obligatory disclosure: This site is not an official Fulbright Program site. The views expressed on this site are entirely mine and do not represent the views of the Fulbright Program, the U.S. Department of State, or any of its partner organizations.
+description: Hello World
 baseurl: "/Fulbright" # the subpath of your site, e.g. /blog
 url: "www.hanyongwunrow.me" # the base hostname & protocol for your site
 google_analytics: "UA-109139903-1"
