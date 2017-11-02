@@ -3,8 +3,8 @@ title: Hello Han Yong
 email: wunro007[at]umn[at]com
 description: Obligatory disclosure: This site is not an official Fulbright Program site. The views expressed on this site are entirely mine and do not represent the views of the Fulbright Program, the U.S. Department of State, or any of its partner organizations.
 baseurl: "/Fulbright" # the subpath of your site, e.g. /blog
-url: "https://www.hanyongwunrow.me" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "www.hanyongwunrow.me" # the base hostname & protocol for your site
+google_analytics: "UA-109139903-1"
 
 # User Settings
 username: Jekflix
@@ -30,7 +30,7 @@ gems:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: /Fulbright
   - title: About
     url: /about/
   - title: Contact
