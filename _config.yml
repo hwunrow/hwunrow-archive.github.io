@@ -2,7 +2,7 @@
 title: Hello Han Yong
 email: wunro007umncom
 description: Hello World
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/Fulbright" # the subpath of your site, e.g. /blog
 url: "www.hanyongwunrow.me" # the base hostname & protocol for your site
 google_analytics: "UA-109139903-1"
 
@@ -34,7 +34,8 @@ links:
   - title: About
     url: /about/
   - title: Contact
-    url: /contact/
+    external: true
+    url: www.hanyongwunrow.me/Fulbright/contact
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
