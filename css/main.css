@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav {
-    margin: 60px auto;
+    margin: 60px;
     width: 70%;
     background-color: #333;
     position: fixed; /* Set the navbar to fixed position */
