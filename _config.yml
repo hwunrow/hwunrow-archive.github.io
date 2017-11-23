@@ -1,13 +1,13 @@
 # Site settings
-title: Travelog
-subtitle: "Journal of [name]"
+title: Hello HanYong
+subtitle: "Journal of Han Yong Wunrow"
 email: your-email@domain.com
-description: "Make the footer happy by entering a short description about yourself here"
+description: "안녕 한용"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
-instagram_username: "rowanoulton"
+url: "hanyongwunrow.me"
+twitter_username: "hyonerow"
+github_username:  "hwunrow"
+instagram_username: "hyonerow"
 
 # Build settings
 markdown: kramdown
