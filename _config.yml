@@ -1,10 +1,11 @@
 # Site settings
 title: Hello HanYong
-subtitle: "Journal of Han Yong Wunrow"
-email: your-email@domain.com
-description: "안녕 한용"
+subtitle: "안녕 한용"
+email: hanyongwunrow [at] gmail [dot] com
+description: "안녕 한용 is a series of thoughts during my year as a 2017-18 Fulbright ETA in South Korea.
+Obligatory disclosure: This site is not an official Fulbright Program site. The views expressed on this site are entirely mine and do not represent the views of the Fulbright Program, the U.S. Department of State, or any of its partner organizations."
 baseurl: ""
-url: "hanyongwunrow.me"
+url: "hanyongwunrow.me/Fulbright"
 twitter_username: "hyonerow"
 github_username:  "hwunrow"
 instagram_username: "hyonerow"
