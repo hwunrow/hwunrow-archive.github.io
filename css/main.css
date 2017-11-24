@@ -72,10 +72,13 @@ ul.posts li {
 }
 
 #about {
-/*  background-color: #D57878;*/
   background-color: #C26868;
-  height: 1020px;
-  margin-top:-30px;
+  height: 920px;
+}
+
+#about h2 {
+    font-family:'Ubuntu','Arial';
+    padding-top: 10px
 }
 
 #code {
