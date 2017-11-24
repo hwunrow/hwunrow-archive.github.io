@@ -112,10 +112,10 @@ span.answer {
 }
 
 .portfolio-thumb {
-  width: 45%;
+/*  width: 45%;
   margin: 20px;
   background-color: white;
-  display: inline-block;
+  display: inline-block; */
 }
 
 .portfolio-box {
@@ -127,7 +127,6 @@ span.answer {
 }
 
 .portfolio-thumb img {
-  width: 100%;
   position: absolute;
   margin: auto;
   min-height: 100%;
