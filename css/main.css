@@ -59,10 +59,6 @@ ul.posts li {
 
 #work {
   background-color: #ddd;
-  height: auto;
-  margin-top: -30px;
-  padding-top: 60px;
-  line-height: 34px;
   -webkit-font-smoothing: antialiased;
 }
 
