@@ -114,12 +114,13 @@ span.answer {
 .portfolio-thumb {
   width: 45%;
   margin: 20px;
-  background-color: white;
+  background-color: #68c2c2;
   display: inline-block;
 }
 
 .portfolio-thumb img {
-  width: 100%;
+  width: 80%;
+  margin: auto;
 }
 
 .portfolio-thumb p {
