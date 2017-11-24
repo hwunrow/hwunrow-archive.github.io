@@ -60,7 +60,7 @@ ul.posts li {
 #work {
   background-color: #ddd;
   padding: 25px;
-  padding-top: 0px;
+  padding-top: 25px;
   -webkit-font-smoothing: antialiased;
 }
 
