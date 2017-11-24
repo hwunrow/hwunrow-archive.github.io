@@ -112,32 +112,14 @@ span.answer {
 }
 
 .portfolio-thumb {
-/*  width: 45%;
+  width: 45%;
   margin: 20px;
   background-color: white;
-  display: inline-block; */
-}
-
-.portfolio-box {
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  margin: 10px;
-  position: relative;
+  display: inline-block;
 }
 
 .portfolio-thumb img {
-  position: absolute;
-  margin: auto;
-  min-height: 100%;
-  min-width: 100%;
-
-   /* For the following settings we set 100%, but it can be higher if needed
-   See the answer's update */
-  left: -100%;
-  right: -100%;
-  top: -100%;
-  bottom: -100%;
+  width: 100%;
 }
 
 .portfolio-thumb p {
