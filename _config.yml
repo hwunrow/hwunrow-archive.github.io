@@ -1,2 +1,4 @@
 url: "http://hanyonwunrow.me"
 baseurl: ""
+sass:
+    style: :compressed
